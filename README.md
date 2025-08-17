@@ -8,6 +8,7 @@
 
 - [hrp](https://github.com/httprunner/hrp) HTTP(S)测试一站式解决方案，涵盖API测试、负载测试和数字体验监控（DEM）
 - [httprunner](https://github.com/httprunner/httprunner) HttpRunner 是一个开源的 API/UI 测试工具，简单易用，功能强大，具有丰富的插件化机制和高度的可扩展能力。
+- [GitHub - expr-lang/expr](https://github.com/expr-lang/expr)  golang的一个表达式引擎，可以快速实现断言、语句执行等功能
 
 ### 压测
 
@@ -68,6 +69,10 @@
 - [mobileperf](https://github.com/alibaba/mobileperf)  安卓性能测试
 - [perf-doctor](https://github.com/vinjn/perf-doctor) 性能医生, a mobile game profiler.
 
+### windows
+
+- [GitHub - GameTechDev/PresentMon](https://github.com/GameTechDev/PresentMon)
+
 ### 通用
 
 - [SoloX](https://github.com/smart-test-ti/SoloX) （Android性能测试android performance\iOS性能测试ios performance\移动端性能测试mobile performance\APP性能测试app performance\性能测试工具）
@@ -84,6 +89,25 @@
 - [il2CppDumper](https://github.com/Perfare/Il2CppDumper) 反编译il2cpp unity代码
 - [Il2cppSpy](https://github.com/yukiarrr/Il2cppSpy) Unity IL2CPP 反汇编器（适用于 apk）
 
+
+## 抓包工具
+- [packetd](https://github.com/packetd/packetd)   多平台都支持的一个流量捕获和分析工具，可以结合wireshark使用
+- 
+
+
+
+## CI/CD
+
+- [GitHub - zbuzhi/diff-excel](https://github.com/zbuzhi/diff-excel)    golang开发的一个exceldiff工具
+
+## AI
+
+- [GitHub - web-infra-dev/midscene](https://github.com/web-infra-dev/midscene)   ai自动化测试，用于web测试
+- 
+
+## Awesome  collect
+
+- [GitHub - atinfo/awesome-test-automation](https://github.com/atinfo/awesome-test-automation)
 
 
 ## 其他
