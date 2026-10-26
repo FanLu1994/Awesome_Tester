@@ -23,6 +23,7 @@
 ### 自动化测试工具
 
 - [carina](https://github.com/zebrunner/carina)  自动化测试框架，支持浏览器、移动设备、基于java开发
+- [agent-qa](https://vostride.com) 用自然语言测试 Web、Android 和 iOS 应用，结合持久记忆、经验证的自我改进及 CLI/MCP 接口。
 - [flipper](https://github.com/facebook/flipper) Flipper（以前称为 Sonar）是一个用于在浏览器或 Node.js 中调试 iOS 和 Android 上的移动应用程序以及 JS 应用程序的平台。从简单的桌面界面可视化、检查和控制您的应用程序。按原样使用 Flipper 或使用插件 API 扩展它。
 - [WinAppDriver](https://github.com/microsoft/WinAppDriver) Windows 应用程序驱动程序
 - [appium-desktop](https://github.com/appium/appium-desktop) 适用于 Mac、Windows 和 Linux 的桌面 GUI 中的 Appium 服务器
